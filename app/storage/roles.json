@@ -1,0 +1,13 @@
+{
+    "admin": [
+        "view_users",
+        "view_articles",
+        "create",
+        "update",
+        "delete"
+    ],
+    "user": [
+        "create",
+        "update"
+    ]
+}

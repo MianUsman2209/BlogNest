@@ -1,0 +1,12 @@
+[
+    {
+        "username": "string123",
+        "password": "$2b$12$4q6zSnLTnB1fKYf1EKLBWueQikhWG3E4W3xrmWZl8/ALN9kEw2rFC",
+        "role": "user"
+    },
+    {
+        "username": "string1243",
+        "password": "$2b$12$kk5WgGXr91cGJea40TX9yu.LenL6InD84UJ7kbAvEKNU9fQ2KAqdS",
+        "role": "admin"
+    }
+]
